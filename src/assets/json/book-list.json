@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titulo": "El juego de Ender",
+    "autor": "Orson Scott Card",
+    "editorial": "Zeta Bolsillo",
+    "descripcion": "La Tierra está amenazada por una especie extraterrestre de insectos que pretende destruir la humanidad. Para vencerlos se precisa la intervención de niños con altas capacidades.",
+    "imagen": "img1.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "Juego de Tronos",
+    "autor": "George R. R. Martin",
+    "editorial": "Gigamesh",
+    "descripcion": "Al largo verano, el invierno se acerca a los Siete Reinos. Lord Eddard Stark, señor de Invernalia, deja sus dominios para unirse a la corte del Rey Robert Baratheon.",
+    "imagen": "img2.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Yo, Robot",
+    "autor": "Isaac Asimov",
+    "editorial": "DeBolsillo",
+    "descripcion": "Los robots de Isaac Asimov son máquinas capaces de llevar a cabo muy diversas tareas, y a menudo se plantean a sí mismos problemas de 'conducta'.",
+    "imagen": "img3.jpg"
+  }
+]

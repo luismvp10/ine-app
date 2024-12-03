@@ -1,0 +1,6 @@
+<div class="form-group">
+  <label for="opciones">Selecciona una opción:</label>
+  <select id="opciones" class="form-control" [(ngModel)]="selectedOption" (change)="onSelect(selectedOption)">
+    <option *ngFor="let option of options" [value]="option">{{ option }}</option>
+  </select>
+</div>
